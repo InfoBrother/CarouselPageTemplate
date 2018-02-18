@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:CarouselPageDemo"
+             x:Class="CarouselPageDemo.MainPage"
+             Title="Carousel Page">
+    
+    <!--<local:FirstPage/> Did using C#
+    <local:SecondPage/>
+    <local:ThirdPage/>
+    <local:fourthPage/>-->
+    
+</CarouselPage>
